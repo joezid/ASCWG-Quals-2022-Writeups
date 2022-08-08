@@ -1,0 +1,7 @@
+Challenge Name: Icy Tower
+Level: Medium
+
+Description: One of my friends send me Icy Tower game to try but the game look suspicious as there was some weird network traffic but looks encrypted can you help me ?
+Pass: novirus
+
+Flag: ASCWG{1234!@#_091a4d871716be4176dfa98196aa4a2e}

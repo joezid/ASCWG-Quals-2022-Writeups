@@ -1,0 +1,7 @@
+Challenge Name: Unpacking 101
+Level: Easy
+
+Description: Can you help me solving this simple crackme?
+Pass: novirus
+
+Flag: ASCWG{M4y_1_cL34r_y0ur_sL4t3_4nd_w1p3_y0ur_c0nsc13nc3}

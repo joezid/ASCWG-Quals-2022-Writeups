@@ -1,0 +1,6 @@
+Challenge Name: Unpacking 1337
+Level: Hard
+
+Description: Who are you today?
+
+Flag: ASCWG{T4k3_4_sw1ng_1_c4n_t4k3_4_h1t:)!!}

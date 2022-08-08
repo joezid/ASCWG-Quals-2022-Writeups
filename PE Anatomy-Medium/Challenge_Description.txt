@@ -1,0 +1,7 @@
+Challenge Name: PE Anatomy
+Level: Medium
+
+Description: Knowing is better than wondering.
+Pass: novirus
+
+Flag: ASCWG{3f386b365b184f27674c4d1d1bdd2a50}
